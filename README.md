@@ -1,6 +1,6 @@
 👋 Hi, I’m bramalka
 I am an embedded developer and robotics programmer for almost 5 years.
-Currently work at Widya Imersif Teknologi and responsibly in EMBUN 360 Project.
+Currently work at Widya Imersif Teknologi as Embedded Engineer.
 Have some experience in robotics, especially in robot hardware programming.
 Willing to learn about ROS and robotics stuff in the future.
 Nice to meet you.
