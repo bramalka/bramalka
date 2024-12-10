@@ -1,7 +1,5 @@
 👋 Hi, I’m bramalka
-I am an embedded engineer and robotics programmer for almost 5 years
-Have some experience in robotics, especially in robot hardware programming
-Willing to learn about ROS and robotics stuff in the future
+I am an embedded engineer and robotics programmer
 Nice to meet you
 
 <!---
